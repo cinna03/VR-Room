@@ -183,10 +183,5 @@ Assets/
 
 ## Author Notes
 
-Replace this section with your name and any notes for your instructor.
-
 **Lessons completed:** All Create with VR course modules (VR basics, interaction, locomotion, UI, room design).
 
-**Testing device:** _[Fill in: Quest 2/3, PCVR, Simulator]_
-
-**GitHub repo:** _[Add your repo URL after pushing]_
